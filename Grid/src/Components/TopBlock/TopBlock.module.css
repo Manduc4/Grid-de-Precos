@@ -1,0 +1,25 @@
+.top_content {
+    height: 200px;
+    width: 700px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: aliceblue;
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.top_content h1 {
+    margin-bottom: 20px;
+    color: hsl(179, 62%, 43%)
+}
+.top_content h2 {
+    margin-bottom: 15px;
+    color: hsl(71, 73%, 54%);
+    font-size: 20px;
+    font-weight:600;
+}
+.top_content p {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: hsl(218, 22%, 67%)
+}

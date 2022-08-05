@@ -1,0 +1,30 @@
+.left_content {
+    background-color: aqua;
+    height: 200px;
+    width: 350px;
+    margin-top: 200px;
+    border-bottom-left-radius: 10px;
+    position:absolute;
+    background-color: hsl(179, 62%, 43%);
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.left_content h1 {
+    color: hsl(204, 43%, 93%);
+    font-size: 16px;
+    padding-bottom: 10px
+}
+.left_content #price {
+    color: hsl(204, 43%, 80%);
+    font-size: 16px;
+}
+.left_content span {
+    font-size: 35px;
+    font-weight: 50px;
+    color: hsl(204, 43%, 93%);
+    padding-right: 10px;
+}
+.left_content #p1 {
+    color: hsl(204, 43%, 93%);
+    padding-top: 10px;
+}

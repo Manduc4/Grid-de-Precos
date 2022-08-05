@@ -1,0 +1,20 @@
+.right_content {
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 350px;
+    background-color: hsl(179, 65%, 54%);
+    border-bottom-right-radius: 10px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.right_content h2 {
+    font-size: 16px;
+    color: hsl(204, 43%, 93%);
+    padding-bottom: 10px;
+}
+.right_content p {
+    font-size: 14px;
+    color:hsl(210, 4%, 89%)
+}
